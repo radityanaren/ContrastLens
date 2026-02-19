@@ -92,6 +92,10 @@ outputs/
 *.jpeg
 *.bmp
 !assets/
+!assets/*.png
+!assets/*.jpg
+!assets/*.jpeg
+!assets/*.bmp
 
 # Logs
 *.log
