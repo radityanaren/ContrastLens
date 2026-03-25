@@ -44,11 +44,11 @@ The two modes control the strength of the contrast gain:
 
 1. Clone the repo :
    ```bash
-   git clone https://github.com/your-username/ContrastLens.git
+   git clone https://github.com/your-username/contrastlens.git
    ```
 2. Go to directory :
    ```bash
-   cd ContrastLens
+   cd contrastlens
    ```
 3. Install dependencies :
    ```bash
